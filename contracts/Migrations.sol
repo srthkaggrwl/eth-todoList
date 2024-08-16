@@ -1,3 +1,7 @@
+// This contract handles the networking
+// It comes build in with the trufle libraries
+
+
 // SPDX-License-Identifier: MIT
 pragma solidity >=0.4.22 <0.9.0;
 
